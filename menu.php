@@ -53,6 +53,12 @@
 
                             <li><a class="dropdown-item" href="https://breviares.com/gerador-politicas-privacidade" title="Gerar Políticas de Privacidade" target="__blank">Gerar Políticas de Privacidade</a></li>
 
+                            <li><a class="dropdown-item" href="https://breviares.com/baixar-thumbnails/" title="Baixar Thumbnails" target="__blank">Baixar Thumbnails</a></li>
+
+
+                            <li><a class="dropdown-item" href="https://breviares.com/redimensionar-imagens/" title="Redimensionar Imagens" target="__blank">Redimensionar Imagens</a></li>
+
+                            
                         </ul>
                     </li>
                 </ul>
